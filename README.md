@@ -60,19 +60,6 @@ Both segments are connected through a central router, which also provides DHCP s
 └── LICENSE
 ```
 
-## Screenshots
-
-### Network Topology
-
-> *(Add a screenshot here.)*
-
-### Connectivity Test
-
-> *(Add a ping test screenshot here.)*
-
-### Routing Table
-
-> *(Add a screenshot of `show ip route` here.)*
 
 ## Learning Outcomes
 
